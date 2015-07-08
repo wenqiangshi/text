@@ -14,7 +14,7 @@ import org.codehaus.jackson.node.ObjectNode;
 public class HttpClientTest {
 
 	//private static final JsonNodeFactory factory = new JsonNodeFactory(false);
-	public static void main(String args[]) {
+	/*public static void main(String args[]) {
     	 //创建HttpClientBuilder
         HttpClientBuilder httpClientBuilder = HttpClientBuilder.create();
         //HttpClient
@@ -56,5 +56,5 @@ public class HttpClientTest {
                 e.printStackTrace();
             }
         }
-    }
+    }*/
 }
